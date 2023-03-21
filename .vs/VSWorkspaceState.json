@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\db",
+    "\\src\\helpers",
+    "\\src\\router"
+  ],
+  "SelectedNode": "\\src\\controllers\\authentication.ts",
+  "PreviewInSolutionExplorer": false
+}
